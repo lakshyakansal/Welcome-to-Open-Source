@@ -69,7 +69,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             
         <td align="center">
                 <a href="https://github.com/lakshyakansal">
-                    <img src="[https://avatars.githubusercontent.com/u/200114805?v=4](https://github.com/lakshyakansal.png)" width="100px;"
+                    <img src="[https://github.com/lakshyakansal.png]" width="100px;"
                         alt="Lakshya Kansal" />
                     <br />
                     <sub>
